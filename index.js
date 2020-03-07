@@ -1,6 +1,6 @@
 console.log("Hello Git");
 
 const x = 2;
-const y = 6;
+const z = 1;
 
-console.log(x + y);
+console.log(x + z);
