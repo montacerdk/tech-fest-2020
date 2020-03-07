@@ -3,4 +3,6 @@ console.log("Hello Git");
 const x = 2;
 const z = 1;
 
-console.log(x + z);
+const addition = () => {
+  return console.log(x + z);
+};
